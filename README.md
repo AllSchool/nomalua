@@ -1,4 +1,4 @@
-# nomalua
+# nomalua remastered
 Nomalua remastered v1.01 ( publié le 15.02.2019 )
 
 Nomalua remastered est un scanner de logiciels malveillants pour les fichiers GMod Lua.  
